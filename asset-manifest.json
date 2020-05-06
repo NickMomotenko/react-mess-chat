@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/react-mess-chat/static/css/main.2133a6b6.chunk.css",
+    "main.js": "/react-mess-chat/static/js/main.0458114f.chunk.js",
+    "main.js.map": "/react-mess-chat/static/js/main.0458114f.chunk.js.map",
+    "runtime-main.js": "/react-mess-chat/static/js/runtime-main.25002d34.js",
+    "runtime-main.js.map": "/react-mess-chat/static/js/runtime-main.25002d34.js.map",
+    "static/js/2.384a183f.chunk.js": "/react-mess-chat/static/js/2.384a183f.chunk.js",
+    "static/js/2.384a183f.chunk.js.map": "/react-mess-chat/static/js/2.384a183f.chunk.js.map",
+    "index.html": "/react-mess-chat/index.html",
+    "precache-manifest.8795268306469ce1e3d637f43cae4178.js": "/react-mess-chat/precache-manifest.8795268306469ce1e3d637f43cae4178.js",
+    "service-worker.js": "/react-mess-chat/service-worker.js",
+    "static/css/main.2133a6b6.chunk.css.map": "/react-mess-chat/static/css/main.2133a6b6.chunk.css.map",
+    "static/js/2.384a183f.chunk.js.LICENSE.txt": "/react-mess-chat/static/js/2.384a183f.chunk.js.LICENSE.txt",
+    "static/media/camera.svg": "/react-mess-chat/static/media/camera.0e0b08bd.svg",
+    "static/media/edit.svg": "/react-mess-chat/static/media/edit.2927f8de.svg",
+    "static/media/empty-data.png": "/react-mess-chat/static/media/empty-data.a41bc29d.png",
+    "static/media/film.svg": "/react-mess-chat/static/media/film.4c9ab10e.svg",
+    "static/media/Home.scss": "/react-mess-chat/static/media/header-s.23280db6.svg",
+    "static/media/link.svg": "/react-mess-chat/static/media/link.6f6464e6.svg",
+    "static/media/UserProfile.scss": "/react-mess-chat/static/media/list-2.887feffc.svg",
+    "static/media/micro.svg": "/react-mess-chat/static/media/micro.ddfd7f5f.svg",
+    "static/media/microphone.svg": "/react-mess-chat/static/media/microphone.e06790d9.svg",
+    "static/media/mute.svg": "/react-mess-chat/static/media/mute.77ae7f29.svg",
+    "static/media/option-b.svg": "/react-mess-chat/static/media/option-b.3bcd7b00.svg",
+    "static/media/pause.svg": "/react-mess-chat/static/media/pause.5a80abc1.svg",
+    "static/media/photo.svg": "/react-mess-chat/static/media/photo.887e3842.svg",
+    "static/media/play.svg": "/react-mess-chat/static/media/play.7ce4d8a9.svg",
+    "static/media/send.svg": "/react-mess-chat/static/media/send.1cb3ec24.svg",
+    "static/media/smile.svg": "/react-mess-chat/static/media/smile.816317e4.svg",
+    "static/media/wave.svg": "/react-mess-chat/static/media/wave.2b8196a5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25002d34.js",
+    "static/js/2.384a183f.chunk.js",
+    "static/css/main.2133a6b6.chunk.css",
+    "static/js/main.0458114f.chunk.js"
+  ]
+}
