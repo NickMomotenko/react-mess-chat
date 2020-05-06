@@ -1,0 +1,64 @@
+.message {
+  &--audio {
+    .message {
+      &__descr-bubble {
+        position: relative;
+        margin-bottom: 0;
+        overflow: hidden;
+      }
+
+      &__audio {
+        audio{
+          display: none;
+        }
+
+        &-progress {
+          background-color: #418fff;
+          height: 100%;
+          position: absolute;
+          top: 0;
+          left: 0;
+          transition: width .5s ease;
+        }
+
+        &-info {
+          display: flex;
+          align-items: center;
+          position: relative;
+        }
+
+        &-button {
+          margin-right: 30px;
+        }
+
+        &-button-controll {
+          height: 28px;
+          width: 28px;
+          border-radius: 50%;
+          background-color: #0f3997;
+          cursor: pointer;
+
+          display: inline-flex;
+          align-items: center;
+          justify-content: center;
+
+          img {
+            height: 11px;
+          }
+        }
+
+        &-tray {
+          margin-right: 40px;
+        }
+
+        &-time {
+          font-weight: bold;
+          font-size: 12px;
+          color: #ffffff;
+          opacity: 0.5;
+        }
+      }
+    }
+  }
+}
+

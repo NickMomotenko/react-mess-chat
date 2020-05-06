@@ -1,24 +1,50 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { useState } from 'react';
+import {
+  Route
+} from "react-router-dom";
+
+import Login from './pages/Login/Login'
+import Home from './pages/Home/Home'
+
 import './App.css';
 
-function App() {
+const App = () => {
+  const [isAuthorize, setIsAuthorize] = useState(false);
+  const [data, setData] = useState(
+    {
+      login: '',
+      password: '',
+      repeatPassword: '',
+      email: '',
+      userName: ''
+    }
+  );
+
+  let login = () => {
+    if (data.login.length > 3 && data.password.length > 3) {
+      setIsAuthorize(true);
+    }
+  }
+
+  let onChangeDataLogin = (value, name) => {
+    setData({
+      ...data,
+      [name]: value
+    })
+  }
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="wrapper content">
+      <Route exact path="/login" render={() => (
+        <Login
+          login={login}
+          onChangeDataLogin={onChangeDataLogin}
+          isAuthorize={isAuthorize}
+        />
+      )} />
+      <Route exact path="/home" render={() => (
+        <Home />
+      )} />
     </div>
   );
 }

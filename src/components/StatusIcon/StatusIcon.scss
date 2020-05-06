@@ -1,0 +1,23 @@
+.empty-data {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: inline-block;
+  text-align: center;
+
+  &__icon {
+    display: inline-block;
+
+    &-pic{
+      height: 100%;
+      width: 100%;
+      object-fit: cover;
+    }
+  }
+
+  &__text {
+    color: #202020;
+    opacity: 0.65;
+  }
+}

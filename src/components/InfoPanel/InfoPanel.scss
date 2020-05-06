@@ -1,0 +1,17 @@
+.info-panel {
+  margin-bottom: 50px;
+
+  &__title {
+    font-size: 28px;
+    color: #202002;
+    margin-bottom: 7px;
+  }
+
+  &__subtitle {
+    font-weight: 300;
+    font-size: 18px;
+    letter-spacing: 0.128571px;
+    color: #202002;
+    opacity: 0.5;
+  }
+}

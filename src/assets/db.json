@@ -1,0 +1,146 @@
+[
+  {
+    "_id": "35ce83ca80a9906817c95cbe0",
+    "text": "Салам, Брут! Чё, как, уничтожил флот галлов? 🖐🏻",
+    "created_at": "17.03.2020",
+    "user": {
+      "_id": "35ce83ca8dbf6c8e9d04dfe95",
+      "fullname": "Egor Chepyxa",
+      "avatar": "https://sun9-15.userapi.com/impf/c850036/v850036072/252d0/RX2A4wF478Y.jpg?size=200x0&quality=90&sign=12ad500e553925b86ede3be79a6c76fb"
+    },
+    "dialogID": "1"
+  },
+  {
+    "_id": "35ce83ca80a9906817c95cbe0444",
+    "text": "So u wanna drink some beer? 🖐🏻",
+    "created_at": "17.03.2020",
+    "user": {
+      "_id": "35ce83ca8dbf6c8e9d04dfe95214241",
+      "fullname": "Nick Momotenko",
+      "avatar": null
+    },
+    "isMe": true,
+    "isReaded": true,
+    "dialogID": "1"
+  },
+  {
+    "_id": "35ce83ca8371d66a6490a6629",
+    "text": "Привет, да 🏻",
+    "created_at": "17.03.2020",
+    "user": {
+      "_id": "35ce83ca8dbf6c8e9d04dfe95",
+      "fullname": "Egor Chepyxa",
+      "avatar": "https://sun9-15.userapi.com/impf/c850036/v850036072/252d0/RX2A4wF478Y.jpg?size=200x0&quality=90&sign=12ad500e553925b86ede3be79a6c76fb"
+    },
+    "dialogID": "1"
+  },
+  {
+    "_id": "35ce83ca80a9906817c95cbeafafafa0",
+    "text": "So u wanna drink some beer? 🖐🏻",
+    "created_at": "17.03.2020",
+    "user": {
+      "_id": "35ce83ca8dbf6c8e9d04dfe95214241",
+      "fullname": "Nick Momotenko",
+      "avatar": null
+    },
+    "isMe": true,
+    "isReaded": true,
+    "dialogID": "1"
+  },
+  {
+    "_id": "35ce83ca8371d66a6490a6629fsafsafsa",
+    "text": "Вот тебе подборочка мемов! 🖐🏻",
+    "created_at": "17.03.2020",
+    "user": {
+      "_id": "35ce83ca8dbf6c8e9d04dfe95",
+      "fullname": "Egor Chepyxa",
+      "avatar": "https://sun9-15.userapi.com/impf/c850036/v850036072/252d0/RX2A4wF478Y.jpg?size=200x0&quality=90&sign=12ad500e553925b86ede3be79a6c76fb"
+    },
+    "attacments": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSpzmjoMEdfjusNwQplrhFED3o21D7QkR5iFxiH5RLbJ_uu32Fb",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSpzmjoMEdfjusNwQplrhFED3o21D7QkR5iFxiH5RLbJ_uu32Fb",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSpzmjoMEdfjusNwQplrhFED3o21D7QkR5iFxiH5RLbJ_uu32Fb"
+    ],
+    "dialogID": "1"
+  },
+  {
+    "_id": "35ce83ca80a9906817c95cbeafafafafsasfasfafa0",
+    "text": "Зачет 🖐",
+    "created_at": "17.03.2020",
+    "user": {
+      "_id": "35ce83ca8dbf6c8e9d04dfe95214241",
+      "fullname": "Nick Momotenko",
+      "avatar": null
+    },
+    "isMe": true,
+    "isReaded": true,
+    "dialogID": "1"
+  },
+  {
+    "_id": "35ce83ca8371d66a6490a6629fsafsafsa14141",
+    "created_at": "17.03.2020",
+    "user": {
+      "_id": "35ce83ca8dbf6c8e9d04dfe95",
+      "fullname": "Egor Chepyxa",
+      "avatar": "https://sun9-15.userapi.com/impf/c850036/v850036072/252d0/RX2A4wF478Y.jpg?size=200x0&quality=90&sign=12ad500e553925b86ede3be79a6c76fb"
+    },
+    "audio": "https://notificationsounds.com/soundfiles/6c524f9d5d7027454a783c841250ba71/file-23_applause.mp3",
+    "dialogID": "1"
+  },
+  {
+    "_id": "35ce83ca8371d66a6490a6629fsafsafsa1414141414",
+    "created_at": "17.03.2020",
+    "user": {
+      "_id": "35ce83ca8dbf6c8e9d04dfe95",
+      "fullname": "Egor Chepyxa",
+      "avatar": "https://sun9-15.userapi.com/impf/c850036/v850036072/252d0/RX2A4wF478Y.jpg?size=200x0&quality=90&sign=12ad500e553925b86ede3be79a6c76fb"
+    },
+    "audio": "https://notificationsounds.com/soundfiles/6c524f9d5d7027454a783c841250ba71/file-23_applause.mp3",
+    "dialogID": "1"
+  },
+  {
+    "_id": "35ce83ca8371d66a6490a6629fsafsafsa1414141414441",
+    "created_at": "17.03.2020",
+    "user": {
+      "_id": "35ce83ca8dbf6c8e9d04dfe95",
+      "fullname": "Egor Chepyxa",
+      "avatar": "https://sun9-15.userapi.com/impf/c850036/v850036072/252d0/RX2A4wF478Y.jpg?size=200x0&quality=90&sign=12ad500e553925b86ede3be79a6c76fb"
+    },
+    "audio": "https://notificationsounds.com/soundfiles/6c524f9d5d7027454a783c841250ba71/file-23_applause.mp3",
+    "dialogID": "1"
+  },
+  {
+    "_id": "35ce83ca8371d66a6490a662421124249",
+    "user": {
+      "_id": "35ce83ca8dbf6c8e9d04dfe95",
+      "fullname": "Egor Chepyxa",
+      "avatar": "https://sun9-15.userapi.com/impf/c850036/v850036072/252d0/RX2A4wF478Y.jpg?size=200x0&quality=90&sign=12ad500e553925b86ede3be79a6c76fb"
+    },
+    "isTyping": true,
+    "dialogID": "1"
+  },
+  {
+    "_id": "35ce83ca80a9906817c95cbe0fsasaf",
+    "text": "Hallo man , how is it going?",
+    "created_at": "17.03.2020",
+    "user": {
+      "_id": "35ce83ca8dbf6c8e9d04dfe95",
+      "fullname": "Egor Chepyxa",
+      "avatar": "https://sun9-15.userapi.com/impf/c850036/v850036072/252d0/RX2A4wF478Y.jpg?size=200x0&quality=90&sign=12ad500e553925b86ede3be79a6c76fb"
+    },
+    "dialogID": "2"
+  },
+  {
+    "_id": "35ce83ca80a9906817ffc95cbe0fafsfasasaf",
+    "text": "Hi , dude. Everything is good. What will u do today? Can we go to the bar?",
+    "created_at": "17.03.2020",
+    "user": {
+      "_id": "35ce83ca8dbf6c8e9d04dfe95214241",
+      "fullname": "Nick Momotenko",
+      "avatar": null
+    },
+    "isMe": true,
+    "isReaded": true,
+    "dialogID": "2"
+  }
+]

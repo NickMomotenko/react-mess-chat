@@ -1,0 +1,22 @@
+.button {
+  background: #4ca5ff;
+  border-radius: 4px;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  color: #ffffff;
+  text-transform: uppercase;
+  width: 100%;
+  padding: 20px;
+  cursor: pointer;
+  transition: opacity .4s;
+
+  &:hover{
+    opacity: .8;
+  }
+}
+
+.button-reg {
+  background: transparent;
+  font-size: 15px;
+  color: #adadad;
+}

@@ -1,0 +1,33 @@
+.login {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+
+  &__wrapper {
+    text-align: center;
+  }
+}
+
+.login-form {
+  max-width: 400px;
+  min-width: 400px;
+  width: 100%;
+
+  &__label {
+    display: block;
+    margin-bottom: 15px;
+    position: relative;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  &__content {
+    background: #ffffff;
+    box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.04204);
+    border-radius: 3px;
+    padding: 50px 40px;
+  }
+}
